@@ -31,7 +31,7 @@ on:
 permissions: {}
 
 env:
-  TIMEZONE: America/New_York
+  TIMEZONE: Europe/Moscow
   WINDOW_SECONDS: 18000 # 5 hours
   MARGIN_SECONDS: 60    # ping this long after a reset, never before it
   LEAD_SECONDS: 900     # start waiting when a ping is less than 15 min away
